@@ -1,0 +1,9 @@
+-Segundo repositorio
+-Alberto Brito Santos 
+-1º Asir A
+-En este repositorio veremos las siguientes cosas:
+-Instalar MongoDB
+-Instalar Visual Studio Code
+-Comandos en mongo shell
+-Insertar documentos en colecciones 
+-Insertar enunciados que se resuelven con métodos find.
